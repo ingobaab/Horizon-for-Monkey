@@ -9,7 +9,7 @@ class util {
     }
 
     static int GetTimestamp() {
-        return 0;
+        return 0; 
     }
     static boolean IsTabletDevice() {
         return false;
